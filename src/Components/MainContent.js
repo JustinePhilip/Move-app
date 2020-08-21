@@ -34,8 +34,8 @@ function MainContent(){
                     
                     <div className = "image-div">
                         <img src = {collection} alt ="collection" className="collection"/>
-                        <img src = {delivery} className = "delivery"/>
-                        <img src = {Branding} className = "Branding" />
+                        <img src = {delivery} alt ="delivery" className = "delivery"/>
+                        <img src = {Branding} alt= "Branding" className = "Branding" />
 
                     </div>
 
