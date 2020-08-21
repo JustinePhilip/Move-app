@@ -1,9 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header';
 import MainContent from './Components/MainContent';
-import {Container, Row, Col, Button} from 'react-bootstrap';
+import {Container, Row, Button} from 'react-bootstrap';
 
 
 
