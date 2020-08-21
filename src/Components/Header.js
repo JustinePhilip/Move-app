@@ -9,10 +9,10 @@ function Header(){
             <header>
                 <div className ="header-div">
                     <nav >
-                        <a href = "#home" className = "header">Home</a>
-                        <a href = "#services"className = "header">Services</a>
-                        <a href = "#about"className = "header">About</a>
-                        <a href = "#contact"className = "header">Contact</a>
+                        <a href = "www.google.com" className = "header">Home</a>
+                        <a href = "www.google.com"className = "header">Services</a>
+                        <a href = "www.google.com"className = "header">About</a>
+                        <a href = "www.google.com"className = "header">Contact</a>
 
                         
                     </nav>
